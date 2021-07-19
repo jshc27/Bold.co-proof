@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');
+
+* {
+
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+html {
+
+  background-color: #e8ebf4;
+
+}
+
+body {
+
+  width: 100%;
+  height: 100%;
+
+}
+
+/* ---------------------| RESPOSIVE  |---------------------*/
+
+@media screen and (max-width: 425px) {
+
+header.App-header {
+
+  display: grid;
+  height: 150px;
+  background: #111e6c;
+
+}
+
+img.App-logo {
+
+  margin: 3px 55px auto;
+
+}
+
+main.Main {
+
+  display:grid;
+  margin: 0px;
+
+  }
+
+div.Main-card {
+  width: 200px;
+  margin: 20px;
+
+}
+
+div.Main-title {
+  width: 200px;
+}
+
+.Main-title {
+
+  height: 40px;
+
+}
+
+h3.Main-card__text {
+  font-size: 14px;
+}
+
+div.Main-buttons__list {
+  display: contents;
+}
+
+div.table-title {
+
+  width: 230px;
+  justify-content: space-evenly;
+  font-size: 14px;
+  margin: 10px;
+
+}
+
+div.Main-buttons__filter {
+
+  display: block;
+
+}
+
+table.table {
+
+  width: 250px;
+  font-size: 14px;
+
+}
+
+}
+
+@media screen and (max-width: 768px) {
+
+header.App-header {
+  justify-content: space-around;
+}
+  
+  }

@@ -1,0 +1,16 @@
+[
+
+    {
+
+        "id": 1,
+        "Transaccion1": "Cobro exitoso", 
+        "Transaccion2": "Cobro no realizado",
+        "Fecha": "14/06/2021- 10:20:12", 
+        "Metodo": "***** ***** ****7711",
+        "IdTransaccionBold": "QWERTY45YUI3",
+        "Monto1": "$25.000", 
+        "Monto2": "$15.000"
+
+    }
+
+]

@@ -1,0 +1,67 @@
+.App-logo {
+
+  height: 70px;
+  margin-left: 50px;
+
+}
+
+.App-header {
+
+  height: 80px;
+  background: linear-gradient(90deg, rgba(17,30,108,1) 17%, rgba(47,35,104,1) 39%, rgba(62,38,102,1) 51%, rgba(74,40,100,1) 69%, rgba(239,67,78,1) 100%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: calc(5px + 2vmin);
+
+}
+
+.Nav-header {
+
+  align-items: center;
+  display: flex;
+  margin-right: 50px;
+
+}
+
+.Nav-header ul {
+
+  display: flex;
+  align-items: center;
+  list-style: none;
+
+}
+
+.Nav-header li a {
+
+  text-decoration: none;
+  margin-right: 20px;
+  color: white;
+
+}
+
+.icon {
+
+  height: 20px;
+  width: 20px;
+
+}
+
+.Nav-ayuda {
+
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+
+}
+
+.Nav-ayuda a {
+
+  display: flex;
+  align-items: center;
+
+}
+
+
+/* RESPONSIVE  */
+
