@@ -19,7 +19,9 @@ https://jshc27.github.io/Bold-Proof/
 
 ## ¿Cómo manejar las partes del ejercicio no realizadas?
 
-Contexto: 
+Contexto: El usuario puede seleccionar el boton "Hoy", "Esta semana" o "Septiembre". Cuando das clic a cada elemento se establecieron las rutas en React.js pero no se actualiza el texto según el boton.<br>
+<br>
+Respuesta: La forma de manejar esta funcionalidad es a través del cambio de estado y utilizacion de las props para que se actualice el texto de acuerdo a su elemento principal. 
 
 
 
